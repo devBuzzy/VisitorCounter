@@ -21,4 +21,4 @@ Then using regular expressions we look for the 6 most common browsers (chromium,
 
 The index.php displays a table with all the browsers and the number of times the page was opened with each one. Those numbers are obtained using the browserget.py
 
-The value of $browser obtained earlier we will call the browserset.py script that is going to add one to the file of this browser
+We will call the browserset.py with the value of $browser obtained earlier. The script is going to add one to the file of this browser
