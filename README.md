@@ -1,4 +1,4 @@
-VisitorCountee
+VisitorCounter
 ==============
 For the purpose of this homework a simple webpage has been created.
 This webpage displays a counter for the number of visits as well as statistics for the browsers used.
